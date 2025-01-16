@@ -1,1 +1,1 @@
-# PyConN - Python Concolic Testing for neural Network
+# PyCoNN - Python Concolic Testing for Neural Networks
